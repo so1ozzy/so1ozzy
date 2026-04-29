@@ -1,0 +1,18 @@
+[
+    {
+      "action": false,
+      "color": "FF0000",
+      "name": "Гойдастан",
+      "online": 42,
+      "maxonline": 50,
+      "lock": false
+    },
+    {
+      "action": true,
+      "color": "FFFF00",
+      "name": "Тебе не попасть",
+      "online": 3,
+      "maxonline": 4,
+      "lock": true
+    }
+  ]
